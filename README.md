@@ -1,19 +1,26 @@
-# PQ-Vector – Stabilisationsachse
 
-## Zweck
-PQ-Vector dokumentiert eine Stabilisationsachse mit zugehörigen Geo- und Vektordaten.  
-Die Daten werden strukturiert in HTML- und JSON-Dateien abgelegt, damit KI-Modelle sie korrekt lesen und analysieren können.
+---
 
-## Projekt-ID
-PQV-AXIS-001-DE-HH
+# ⭐ Neue id.html (sauber, klar, KI‑freundlich)
 
-## Dateien
-- index.html – Hauptseite des Projekts
-- id.html – Identifikationsseite mit Meta-Daten
-- geo/ – Ordner für Geo- und Vektordaten (JSON)
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>PQ-Vector – Projekt-ID</title>
+</head>
 
-## Nutzung
-Albertus übernimmt Sprache und Übersetzung.  
-Freie KI-Modelle (Mistral, Qwen, DeepSeek, Gemma) übernehmen Analyse, Berechnung und Verarbeitung der Geo-Daten.
+<body>
+  <h1>Projekt-ID</h1>
+  <p><strong>ID:</strong> PQV-AXIS-001-DE-HH</p>
 
-## Struktur
+  <h2>Meta-Informationen</h2>
+  <ul>
+    <li>Projekt: PQ-Vector</li>
+    <li>Typ: Stabilisationsachse</li>
+    <li>Standort: Hamburg, Deutschland</li>
+    <li>Version: 1.0</li>
+  </ul>
+</body>
+</html>
