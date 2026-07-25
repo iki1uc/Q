@@ -1,28 +1,19 @@
-# ANKER – Stabilisationsachse · iki1uc
+# PQ-Vector – Stabilisationsachse
 
 ## Zweck
-ANKER ist die Stabilisationsachse des iki1uc‑Systems.
-Es hält die Achsen IQ, QI, EVO, UPD, UPG, BIOS und CALC im korrekten Verhältnis.
+PQ-Vector dokumentiert eine Stabilisationsachse mit zugehörigen Geo- und Vektordaten.  
+Die Daten werden strukturiert in HTML- und JSON-Dateien abgelegt, damit KI-Modelle sie korrekt lesen und analysieren können.
+
+## Projekt-ID
+PQV-AXIS-001-DE-HH
+
+## Dateien
+- index.html – Hauptseite des Projekts
+- id.html – Identifikationsseite mit Meta-Daten
+- geo/ – Ordner für Geo- und Vektordaten (JSON)
+
+## Nutzung
+Albertus übernimmt Sprache und Übersetzung.  
+Freie KI-Modelle (Mistral, Qwen, DeepSeek, Gemma) übernehmen Analyse, Berechnung und Verarbeitung der Geo-Daten.
 
 ## Struktur
-- NAME: ANKER
-- ID: A01
-- Station: S01
-- Dimension: D4
-- Modus: erabel (neutral, operation möglich)
-
-## Rolle
-ANKER stabilisiert, ohne selbst aktiv zu berechnen oder zu steuern.
-Es ist die neutrale Achse zwischen AXI, 6d und API.
-
-## Bindungen
-- AXI
-- 6d
-- 360
-- 100
-- 213 (REAL)
-- API
-
-## Status
-STATE = STABIL  
-READY = 100%
